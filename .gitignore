@@ -1,0 +1,41 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE and operating system
+.idea/
+.vscode/
+*.iml
+.DS_Store
+._*
+
+# Android local configuration and signing
+android/.gradle/
+android/local.properties
+**/key.properties
+*.jks
+*.keystore
+
+# Apple generated files and user settings
+**/Pods/
+**/.symlinks/
+**/DerivedData/
+**/xcuserdata/
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Local credentials and machine-specific notes
+.env
+.env.*
+!.env.example
+*.p12
+*.mobileprovision
+AMBIENTE.md
+VALIDACAO.md
