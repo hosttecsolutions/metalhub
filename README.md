@@ -160,5 +160,3 @@ O estado de formulários, filtros e menu é local aos widgets. O cadastro de cli
 - Rubens Barros Ferraz
 - Samuel Epaminondas Costa
 - Yuri Maurino Borges
-
-Para trabalhar no repositório, consulte [Contribuição](CONTRIBUTING.md). As instruções de envio e os itens restantes da entrega estão em [Publicação no GitHub](docs/GITHUB.md) e [Entrega](docs/ENTREGA.md).
